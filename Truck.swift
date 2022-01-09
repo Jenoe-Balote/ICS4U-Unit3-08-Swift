@@ -1,10 +1,10 @@
 //
 //  Truck.swift
 //
-//  Created by Ryan Chung
-//  Created on 2021-12-11
+//  Created by Jenoe Balote
+//  Created on 2022-01-07
 //  Version 1.0
-//  Copyright (c) 2021 Ryan Chung. All rights reserved.
+//  Copyright (c) 2022 Jenoe Balote. All rights reserved.
 //
 //  This class demonstrates the Truck class
 //
